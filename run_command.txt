@@ -1,0 +1,1 @@
+gradle -PmainClass=exercises01.TestLongCounterExperiments run
